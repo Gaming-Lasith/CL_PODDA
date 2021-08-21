@@ -1,4 +1,4 @@
-#PODDA is speak of free software, we are referring to freedom,#not
+#when we are speak of free software, we are referring to freedom,#not
 #price.  Our General Public Licenses are designed to make sure that you #have https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ freedom to distribute copies of free software (and charge for
 #them if you wish), that you receive source code or can get it if you
 #want it, that you can change the software or use pieces of it in new #free programs, and that you know you can do these things.   #API_ID = int(os.environ.get("API_ID", 1))    #API_HASH = os.environ.get("API_HASH", None)
