@@ -1,6 +1,6 @@
-<h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
+<h1 align="center"><b> GAMING LASITH Public Bot  </b></h1>
 
-![logo](https://rfmsomnii.com/wp-content/uploads/2020/02/Optimized-AW_AVIATION_11-CLEAN.jpg)
+![logo](https://telegra.ph/Gaming-Lasith-10-04)
 
 
 
@@ -17,29 +17,12 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@Isuru200555/Drop-ml)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dropmll/CL_PODDA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/areyouknowme/CL_PODDA)
 
 
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
+Gaming Lasith යනු, ඔබගේ විනෝදාස්වාදය හා ඔබගේ වැඩ කටයුතු ඉතා පහසුවෙන් කිරීමට සෑදූ රොබෝවරයෙකි. අනිසි විදියට භාවිතා කිරීමෙන් ඔබගේ WhatsApp Account එක Ban විය හැක. අපි එයට වග කියනු නොලැබේ.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-## Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
-----|----|
-[Yusuf Usta](https://t.me/fusufs) | [CW4RR10R](https://t.meW4RR10R)
- Base, | hepls,idea
-
-# base bot
-https://github.com/yusufusta/WhatsAsena
-
-# Baileys whatsapp api 
-https://github.com/adiwajshing/Baileys
-[![](https://telegra.ph/file/1c742619b421e4713e414.jpg?size=50)](https://t.me/danumabots)
