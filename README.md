@@ -1,8 +1,5 @@
 <h1 align="center"><b> GAMING LASITH Public Bot  </b></h1>
 
-![logo](https://telegra.ph/Gaming-Lasith-10-04)
-
-
 
 
 <p align="center">
