@@ -21,5 +21,3 @@
 ### ⚠️ Warning! 
 ```
 Gaming Lasith යනු, ඔබගේ විනෝදාස්වාදය හා ඔබගේ වැඩ කටයුතු ඉතා පහසුවෙන් කිරීමට සෑදූ රොබෝවරයෙකි. අනිසි විදියට භාවිතා කිරීමෙන් ඔබගේ WhatsApp Account එක Ban විය හැක. අපි එයට වග කියනු නොලැබේ.
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
