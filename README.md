@@ -28,4 +28,4 @@ Gaming Lasith යනු, ඔබගේ විනෝදාස්වාදය හ�
 
 
 
-<div align="center"><img src="https://profile-counter.glitch.me/areyouknowme/count.svg" /><br>Profile Viewers</div>
+<div align="center"><img src="https://profile-counter.glitch.me/Gaming-Lasith/count.svg" /><br>Profile Viewers</div>
