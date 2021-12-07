@@ -24,3 +24,8 @@
 Gaming Lasith යනු, ඔබගේ විනෝදාස්වාදය හා ඔබගේ වැඩ කටයුතු ඉතා පහසුවෙන් කිරීමට සෑදූ රොබෝවරයෙකි.
 අනිසි විදියට භාවිතා කිරීමෙන් ඔබගේ WhatsApp Account එක Ban විය හැක.
 අපි එයට වග කියනු නොලැබේ.
+```
+
+
+
+<div align="center"><img src="https://profile-counter.glitch.me/areyouknowme/count.svg" /><br>Profile Viewers</div>
