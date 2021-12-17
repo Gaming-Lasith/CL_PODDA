@@ -11,11 +11,11 @@
 </p>
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@Isuru200555/Drop-ml)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/areyouknowme/CL_PODDA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gaming-Lasith/CL_PODDA)
 
-[![Deploy](https://investmentmoats.com/wp-content/uploads/2021/08/telegram-button.png)](https://t.me/Gaming_Lasith_Updates)
+[![Updates](https://investmentmoats.com/wp-content/uploads/2021/08/telegram-button.png)](https://t.me/Gaming_Lasith_Updates)
 
-[![Deploy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPj3G48Zpi3gWVSOMfFGIlrcTt4PRqvTt8Knfr42DhMpHIylu7bO7jI3VXvcxSe5TPWQ&usqp=CAU)](https://t.me/Gaming_Lasith)
+[![ME](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPj3G48Zpi3gWVSOMfFGIlrcTt4PRqvTt8Knfr42DhMpHIylu7bO7jI3VXvcxSe5TPWQ&usqp=CAU)](https://t.me/Gaming_Lasith)
 
 
 
